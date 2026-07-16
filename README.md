@@ -37,7 +37,7 @@ XBMC4Gamers supporta fino a 10 custom view (`CustomViewtype_id_80` … `_89`) pe
 1. Apri il file `.html` in un browser (doppio clic, nessuna installazione).
 2. Aggiungi gli oggetti dalla palette e posizionali col mouse; regola i dettagli nel pannello a destra.
 3. Premi **📦 Pacchetto** per scaricare lo ZIP.
-4. Copia il contenuto nella cartella `xml/custom views/_global/` del tuo skin XBMC4Gamers.
+4. Copia il contenuto nella cartella `skins/Profile/xml/custom views/_global/` del tuo skin XBMC4Gamers.
 
 > Suggerimento: apri la **📖 Wiki** dal tool per la spiegazione di ogni singola opzione.
 
@@ -77,7 +77,7 @@ Everything is in **one single HTML file**: no install, no dependencies, works **
 1. Open the `.html` file in a browser (no install).
 2. Add objects from the palette, position them with the mouse, tune the details on the right.
 3. Click **📦 Package** to download the ZIP.
-4. Copy its contents into your skin's `xml/custom views/_global/` folder.
+4. Copy its contents into your skin's `skins/Profile/xml/custom views/_global/` folder.
 
 ### Compatibility
 
