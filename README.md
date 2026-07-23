@@ -2,7 +2,7 @@
 
 **by XGekoX**
 
-<img width="1920" height="882" alt="Preview" src="https://github.com/user-attachments/assets/8dd5482e-ca2a-4ca6-8133-489749e37706" />
+<img width="1920" height="882" alt="Preview" src="Preview.jpg" />
 
 
 Editor visuale **drag & drop** per creare le *custom view* dello skin **XBMC4Gamers** sull'Xbox originale, senza scrivere una riga di XML. Costruisci la schermata col mouse, vedi l'anteprima in tempo reale e scarichi il pacchetto pronto da copiare sulla console.
